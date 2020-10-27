@@ -9,4 +9,6 @@ I've included sys.arg option in the script to allow me to feed any file type I w
 The formatting from the terminal is as follows;
 
 python3 | file in question | starting page num
+
+
 python3 some.pdf 18
